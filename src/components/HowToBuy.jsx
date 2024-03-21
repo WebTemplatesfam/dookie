@@ -221,13 +221,20 @@ function HowToBuy() {
                       style={{ marginLeft: "5px", verticalAlign: "middle" }}
                     />
                   </a>{" "}
-                  6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix
+                  with Contract address
                 </p>
               </ColumnData>
             </Column>
-            <StyledText type=".">.</StyledText>
+            <StyledText type="address">6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix</StyledText>
           </Row>
-          
+
+          <Row>
+            <Column></Column>
+            <Column>
+                <StyledText type=".">.</StyledText>
+              </RowData>
+            </Column>
+          </Row>
         </Rows>
       </WidthContainer>
     </HowToBuyContainer>
