@@ -227,6 +227,7 @@ function HowToBuy() {
             </Column>
             <StyledText type="address">6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix</StyledText>
           </Row>
+          
         </Rows>
       </WidthContainer>
     </HowToBuyContainer>
