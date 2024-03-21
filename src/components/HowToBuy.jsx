@@ -208,13 +208,13 @@ function HowToBuy() {
             <Column>
               <Icon type="poop" src={poop3} />
               <ColumnData>
-                <StyledText type="text">Exchange for $DOOKIE</StyledText>
+                <StyledText type="text">Exchange for $CAPY</StyledText>
                 <p>
-                  Trade $SOL for $DOOKIE on{" "}
+                  Trade $SOL for $CAPY on{" "}
                   <a
-                    href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=E2Vvh3dXgZGbUf76d3wBJgwfWSZ3GjjakidnHR7sjdfC&inputAmount=0&fixed=in"
+                    href="https://jup.ag/swap/SOL-CAPY_6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix"
                     target="_blank">
-                    RAYDIUM.IO
+                    JUPITER
                     <img
                       src={ray}
                       alt="Raydium Logo"
@@ -225,7 +225,7 @@ function HowToBuy() {
                 </p>
               </ColumnData>
             </Column>
-            <StyledText type="address">E2Vvh3dXgZGbUf76d3wBJgwfWSZ3GjjakidnHR7sjdfC</StyledText>
+            <StyledText type="address">6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix</StyledText>
           </Row>
 
           <Row>
