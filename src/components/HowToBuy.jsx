@@ -227,15 +227,6 @@ function HowToBuy() {
             </Column>
             <StyledText type="address">6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix</StyledText>
           </Row>
-
-          <Row>
-            <Column></Column>
-            <Column>
-              <RowData move="100%, 0">
-                <Icon type="dookie" src={dookie3} alt="dookie icon" />
-              </RowData>
-            </Column>
-          </Row>
         </Rows>
       </WidthContainer>
     </HowToBuyContainer>
