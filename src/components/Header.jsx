@@ -103,12 +103,12 @@ function Header() {
           <Column>
             <StyledText color="#1f1f1f" type="texter">
               Everyone has a little{" "}
-              <span style={{ backgroundColor: "#FFE2BD" }}> Dookie </span> in
+              <span style={{ backgroundColor: "#FFE2BD" }}> Capy </span> in
               them
             </StyledText>
             <Button type="button">
               <StyledLink
-                href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=E2Vvh3dXgZGbUf76d3wBJgwfWSZ3GjjakidnHR7sjdfC&inputAmount=0&fixed=in"
+                href="https://jup.ag/swap/SOL-CAPY_6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix"
                 target="_blank"
                 rel="noopener noreferrer">
                 buy now
