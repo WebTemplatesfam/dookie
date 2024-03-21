@@ -221,11 +221,11 @@ function HowToBuy() {
                       style={{ marginLeft: "5px", verticalAlign: "middle" }}
                     />
                   </a>{" "}
-                  with Contract address
+                  6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix
                 </p>
               </ColumnData>
             </Column>
-            <StyledText type="address">6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix</StyledText>
+            <StyledText type=".">.</StyledText>
           </Row>
           
         </Rows>
