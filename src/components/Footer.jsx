@@ -25,7 +25,7 @@ const StyledFooter = styled.div`
 
   @media (max-width: 668px) {
     &::before {
-      content: "Just Dookit";
+      content: "Just Capy it";
     }
   padding-left: 6px;
   font-size: 2rem;
@@ -59,13 +59,13 @@ function Footer() {
     <FooterContainer>
       <StyledFooter></StyledFooter>
       <Img1
-        href="https://x.com/Dookiethe3rd"
+        href="https://twitter.com/MCapySol"
         target="_blank"
         rel="noopener noreferrer">
         <img src={twitter} alt="golden turd" />
       </Img1>
       <Img2
-        href="https://t.me/dookieportal"
+        href="https://t.me/MCapySol"
         target="_blank"
         rel="noopener noreferrer">
         <img src={telegram} alt="golden turd" />
