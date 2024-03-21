@@ -128,12 +128,12 @@ function Tokenomics() {
           <Body>
             <ColumnData>
               <CenterText>Total Supply:</CenterText>
-              <StyledText type="text">69 Trillion $DOOKIE</StyledText>
+              <StyledText type="text">999 Million $CAPY</StyledText>
             </ColumnData>
             <Img src={piechart} alt="piechart" />
             <ColumnData>
               <p>
-                <StyledText type="text">50%</StyledText> <span> - Airdrop</span>
+                <StyledText type="text">50%</StyledText> <span> - Liquidity</span>
               </p>
               <p>
                 <StyledText type="text">20%</StyledText>{" "}
@@ -145,7 +145,7 @@ function Tokenomics() {
               </p>
               <p>
                 <StyledText type="text">10%</StyledText>{" "}
-                <span> - Liquidity</span>
+                <span> - AirDrops</span>
               </p>
             </ColumnData>
           </Body>
