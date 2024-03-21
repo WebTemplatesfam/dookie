@@ -228,17 +228,10 @@ function HowToBuy() {
             <StyledText type="address">6zz62u9yEoZTe2efnnCyyHx5UUaPiThCngVxdYi8i4ix</StyledText>
           </Row>
 
-          <Row>
-            <Column></Column>
-            <Column>
-                <StyledText type=".">.</StyledText>
-              </RowData>
-            </Column>
-          </Row>
+          {/* Add this div for spacing */}
+          <div style={{ marginBottom: '5rem' }}></div>
         </Rows>
       </WidthContainer>
     </HowToBuyContainer>
   );
-}
-
-export default HowToBuy;
+}export default HowToBuy;
